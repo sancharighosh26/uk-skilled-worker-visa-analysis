@@ -29,6 +29,6 @@ To identify why many international graduates fail to transition to Skilled Worke
 
 <img width="1105" height="605" alt="Fig  4  Visa Grants by Occupational Skill Level (SOC Classification)" src="https://github.com/user-attachments/assets/3962b701-89b4-4d8c-ba71-26a2c742305a" />
 
-🧠 Conclusion
 
+🧠 Conclusion
 The analysis shows that barriers to Skilled Worker visa transition are structural, driven by salary thresholds, occupational eligibility, and sectoral distribution rather than a lack of employment.
