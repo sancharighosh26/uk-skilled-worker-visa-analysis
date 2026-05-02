@@ -1,4 +1,5 @@
 Skilled Worker Visa Transition Analysis (UK)
+
 📊 Overview
 This project analyses the structural barriers affecting international graduates transitioning from the Graduate Route to the Skilled Worker visa in the UK. It focuses on salary thresholds, sectoral employment patterns, and occupational eligibility using data from 2024–2025.
 
